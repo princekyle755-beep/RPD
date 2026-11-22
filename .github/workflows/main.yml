@@ -1,4 +1,4 @@
-name: RDP
+@furinaa:name: RDP
 # rdp by JoyWardanaa modifed
 on:
 workflow_dispatch:
